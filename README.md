@@ -1,6 +1,6 @@
 # pickle-rick
 
-Poc parsing python [pickle](https://docs.python.org/3/library/pickle.html) format, using [serde-pickle](https://github.com/birkenfeld/serde-pickle).
+Poc parsing python [pickle](https://docs.python.org/3/library/pickle.html) format, using [serde-pickle](https://github.com/birkenfeld/serde-pickle) and [neon](https://neon-bindings.com/).
 
 ## Requirements
 [Node v16+](https://github.com/nvm-sh/nvm)
