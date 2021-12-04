@@ -24,5 +24,5 @@ $ yarn build
 ## Running example
 
 ```sh
-$ node example.sh
+$ node example.js
 ```
